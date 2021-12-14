@@ -4,3 +4,6 @@ This bot logs all messages sent in every channel it is in, and sends them to a l
 The message format for the log is "[Username]: [Message]"
 <br><br>
 If channels are being spammed extremely fast it will start to become behind on messages. Don't worry, it will catch up eventually.
+<br><br><br>
+To set up the bot, take the channel ID of the channel you want the bot to send the messages to, and replace "LoggingChannel" with it.<br>
+Take the bot's token, and replace "BotToken" with it.
